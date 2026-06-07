@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=59F731&width=435&lines=Hello%2C+i'm+Frogman!)](https://git.io/typing-svg)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=59F731&width=435&lines=%3C+About_Me.js+%2F%3E)](https://git.io/typing-svg)
 
 I code minecraft mods and sometimes html/javascript
