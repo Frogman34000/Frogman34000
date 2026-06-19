@@ -1,3 +1,5 @@
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=59F731&width=435&lines=Hello%2C+i'm+Frogman!)](https://git.io/typing-svg)
 
 
@@ -16,19 +18,12 @@ I code minecraft mods and sometimes html/javascript
 ![](https://streak-stats.demolab.com/?user=Frogman34000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Frogman34000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<details>
-  <summary>🏆 GitHub Trophies</summary>
-  
-![](https://github-profile-trophy.vercel.app/?username=Frogman34000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</details>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=59F731&width=435&lines=%3C+Random_Dev_Quote.txt+%2F%3E)](https://git.io/typing-svg)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Frogman34000&icon=0&color=green)](https://visitcount.itsvg.in)
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
